@@ -1,2 +1,1 @@
-# dsoft02.github.io
-Portfolio
+#+title: Dsoft02
